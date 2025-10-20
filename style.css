@@ -64,10 +64,9 @@ h1 {
   font-style: italic;
 }
 
-/* Ефект при наведенні */
 .city:hover img {
   filter: grayscale(0%) opacity(1);
-  transform: scale(1.1); /* легке збільшення */
+  transform: scale(1.1);
 }
 
 .city:hover {
